@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>hello_world</name>
-  <version>0.0.0</version>
+  <version>0.0.1</version>
   <description>The hello_world package</description>
   <maintainer email="ander.ansuategi@tekniker.es">Ander Ansuategi</maintainer>
   <license>BSD</license>
